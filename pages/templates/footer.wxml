@@ -1,0 +1,8 @@
+<template name="footer1">
+我是公共的footer1
+
+</template>
+<template name="footer2">
+我是公共的footer2222{{text}}
+
+</template>

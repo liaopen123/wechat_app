@@ -1,0 +1,15 @@
+<include src="../templates/header"/>
+
+廖鹏辉真帅
+<button>立即开始</button>
+<button type='defalut' bindtap='donext'>默认样式</button>
+<button type='primary'>primary</button>
+<view wx:if="{{isShow}}">{{love}}</view>
+<view wx:else>{{hate}}</view>
+
+<view wx:for="{{['aaa','bbb','ccc']}}">
+{{item}} gogogo~~~~{{index}}
+</view>
+
+<import src="../templates/footer"/>
+<template is="footer2" data="{{text:'爱你一万年'}}"/>
