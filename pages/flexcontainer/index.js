@@ -1,4 +1,4 @@
-// page/sendparamstodetails/index.js
+// pages/flexcontainer/index.js
 Page({
 
   /**

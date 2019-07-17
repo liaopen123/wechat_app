@@ -1,8 +1,9 @@
 {
   "pages": [
+    "pages/flexcontainer/index",
+    "pages/lifecycler/index",
     "pages/sendparamstodetails/index",
     "pages/getparamsindetails/index",
-    "pages/lifecycler/index",
     "pages/touchevent/index",
     "pages/firstpage/firstpage",
     "pages/index/index",
