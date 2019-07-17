@@ -3,6 +3,7 @@
 廖鹏辉真帅
 <button>立即开始</button>
 <button type='defalut' bindtap='donext'>默认样式</button>
+<button type='warning'>警告警告⚠️</button>
 <button type='primary'>primary</button>
 <view wx:if="{{isShow}}">{{love}}</view>
 <view wx:else>{{hate}}</view>
@@ -10,6 +11,8 @@
 <view wx:for="{{['aaa','bbb','ccc']}}">
 {{item}} gogogo~~~~{{index}}
 </view>
-
+<view wx:for="{{['守','护','最','好','的','雪','糕']}}" wx:for-item='gaga' wx:for-index='haha'>
+{{gaga}} gogogo~~~~{{haha}}
+</view>
 <import src="../templates/footer"/>
 <template is="footer2" data="{{text:'爱你一万年'}}"/>

@@ -1,0 +1,20 @@
+<view  class='view1'  catchtap='view1Click'>
+view11
+
+<view class='view2'  catchtap='view2Click'>
+view22
+
+<view class='view3'   catchtap='view3Click'>
+view33
+
+
+</view>
+
+
+</view>
+
+
+
+
+
+</view>

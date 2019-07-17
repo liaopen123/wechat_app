@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/touchevent/index",
     "pages/firstpage/firstpage",
     "pages/index/index",
     "pages/logs/logs"
