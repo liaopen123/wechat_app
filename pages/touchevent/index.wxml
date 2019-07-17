@@ -1,20 +1,9 @@
-<view  class='view1'  catchtap='view1Click'>
+<view  class='view1'  bindtap='view1Click'  id='view1id' data-title='view1-title' data-id='view1-dataid'>
 view11
-
-<view class='view2'  catchtap='view2Click'>
+<view class='view2'  bindtap='view2Click'>
 view22
-
-<view class='view3'   catchtap='view3Click'>
+<view class='view3'   bindtap='view3Click'   id='view3id' data-title='view3-title' data-id='view3-dataid'>
 view33
-
-
 </view>
-
-
 </view>
-
-
-
-
-
 </view>

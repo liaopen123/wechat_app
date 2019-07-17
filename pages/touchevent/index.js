@@ -58,14 +58,16 @@ Page({
   },
 
 
-view1Click:function(){
+view1Click:function(event){
 console.log("gaga1");
+console.log(event);
 },
   view2Click: function () {
     console.log("gaga2");
   },
-  view3Click: function () {
+  view3Click: function (event) {
     console.log("gaga3");
+    console.log(event);
   },
   /**
    * 用户点击右上角分享

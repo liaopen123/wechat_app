@@ -11,5 +11,19 @@
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/touchevent/index",
+      "text": "touchevent",
+      "iconPath":"images/icon1.png",
+    "selectedIconPath":"images/icon1s.png"
+    },{
+      "pagePath": "pages/index/index",
+      "text": "index",
+        "iconPath": "images/icon2.png",
+        "selectedIconPath": "images/icon2s.png"
+    }]
+  }
 }
