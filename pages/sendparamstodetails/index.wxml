@@ -1,0 +1,4 @@
+<text bindtap="clickArtical1">我是文章1</text>
+<text bindtap="clickArtical2">我是文章2</text>
+<text bindtap="clickArtical3">我是文章3</text>
+<text bindtap="clickArtical4">我是文章4</text>

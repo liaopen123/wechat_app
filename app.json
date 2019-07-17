@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/sendparamstodetails/index",
+    "pages/getparamsindetails/index",
     "pages/lifecycler/index",
     "pages/touchevent/index",
     "pages/firstpage/firstpage",
