@@ -1,6 +1,8 @@
 {
   "pages": [
+    "pages/swiper/index",
     "pages/flexcontainer/index",
+    
     "pages/lifecycler/index",
     "pages/sendparamstodetails/index",
     "pages/getparamsindetails/index",
