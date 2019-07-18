@@ -1,5 +1,8 @@
 {
   "pages": [
+    "pages/icon/index",
+    "pages/text/index",
+    "pages/scrollview/index",
     "pages/swiper/index",
     "pages/flexcontainer/index",
     

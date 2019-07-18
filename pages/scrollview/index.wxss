@@ -1,0 +1,11 @@
+.container1{
+background-color: #ff0000;
+display: flex;
+flex-wrap: nowrap;
+height: 400px;
+flex-direction: row;
+
+}
+.item{
+  height: 100;
+}
